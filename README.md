@@ -23,4 +23,9 @@ We have some endpoints for you to use in your app.
 | [ticker](#ticker) | get ticker or tickers |
 | [index](#index) | get index for a currency |
 
-Continue...
+# Forex
+
+```
+GET api.coinsamba.com/v1/forex
+```
+
