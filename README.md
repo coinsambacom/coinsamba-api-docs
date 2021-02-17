@@ -6,6 +6,9 @@ Coinsamba is the biggest platform in Brazil to compare cryptocurrencies prices i
 We only show newest version of the api in this doc root.
 Actually API is in ``v1``
 
+## Swagger Documentation
+[Link](https://app.swaggerhub.com/apis-docs/coinsamba/coinsamba/1.0.0)
+
 ### Base URL
 
 ```sh
